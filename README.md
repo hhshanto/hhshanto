@@ -4,9 +4,13 @@
 
 # 👨‍💻 Mohammad Hasan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hhshanto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+
+## 💪 Skills
+![Python](https://img.shields.io/badge/Python-★★★★★-brightgreen?style=for-the-badge&logo=python)
+![RAG](https://img.shields.io/badge/RAG-★★★★☆-yellow?style=for-the-badge&logo=data:image/png;base64,)
+![Machine Learning](https://img.shields.io/badge/ML-★★★★★-brightgreen?style=for-the-badge&logo=tensorflow)
+![LLM](https://img.shields.io/badge/LLM-★★★★☆-yellow?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-★★★★★-brightgreen?style=for-the-badge)
 
 ## 🎓 Education
 - **MSc in Data Science** *(2021 - Present)*
@@ -43,8 +47,10 @@
 - Conducted tutorials and assisted students with programming concepts
 - Evaluated assignments and provided feedback
 
-
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=3&theme=radical&line1=python,python,61DAFB;tensorflow,tensorflow,F7DF1E;pytorch,pytorch,FF3E00&line2=azure,azure,339933;docker,docker,E34F26;git,git,7952B3&line3=numpy,numpy,4FC08D;pandas,pandas,2C8BBE;scikit-learn,scikit,FF4785" alt="Tech Stack" />
+</div>
 
 ### AI & LLM Technologies
 <p align="center">
@@ -68,16 +74,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### Machine Learning & AI
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kedro-FF1B2D?style=for-the-badge&logo=kedro&logoColor=white"/>
-</p>
 ## 🔍 RAG & Evaluation Expertise
 <p align="center">
   <img src="https://img.shields.io/badge/RAGAS-FF4088?style=for-the-badge"/>
@@ -100,41 +96,24 @@
   - Custom metric implementation
   - Batch evaluation capabilities
 
+## 📊 GitHub Stats & Activities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhshanto&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhshanto&theme=radical" alt="GitHub Streak"/>
+</p>
+
+[![Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hhshanto&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hhshanto/hhshanto/output/github-contribution-grid-snake.svg" />
+</div>
+
 ## 📜 Certifications & Training
 - IBM AI Engineering Professional Certificate
   - Introduction to Deep Learning & Neural Networks with Keras
   - Deep Neural Networks with PyTorch
   - Introduction to Computer Vision and Image Processing
-  - Building Deep Learning Models with TensorFlow
-  - AI Capstone Project with Deep Learning
-- Machine Learning with Python (IBM)
-- Complete Web Development Course (Programming Hero)
-
-## 🌐 Language Proficiency
-- English: IELTS Band 7.5 (Fluent)
-- German: Beginner Level (A1)
-- Bengali: Native
-
-## 🏆 Achievements & Awards
-- Hult Prize@AIUB 2017-18 Winner
-- Dean's List Honor for exceptional academic results
-- Merit-based Scholarship at AIUB
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhshanto&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hhshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-## 📫 Contact Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mhasan-shanto/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hhshanto">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-</p>
+  - Building```
