@@ -21,7 +21,11 @@
 **KPMG Deutschland** *(Jan 2024 - Present)*
 - Specializing in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems
 - Developing and implementing enterprise-level RAG solutions using Microsoft Promptflow
-- Implementing advanced evaluation frameworks including promptfoo, RAGAS, and Promptflow eval
+- Expertise in RAG evaluation frameworks:
+  - Implementing RAGAS for comprehensive RAG pipeline assessment
+  - Using promptfoo for systematic prompt testing and evaluation
+  - Leveraging Promptflow eval for end-to-end evaluation workflows
+  - Conducting thorough analysis of retrieval quality and response relevance
 - Working with Azure OpenAI, OpenAI embedding models, and RAG, RAFT architectures
 - Creating robust AI applications for enterprise-level solutions
 - Implementing machine learning solutions for audit automation
@@ -74,6 +78,27 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kedro-FF1B2D?style=for-the-badge&logo=kedro&logoColor=white"/>
 </p>
+## 🔍 RAG & Evaluation Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/RAGAS-FF4088?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Promptfoo-00ADD8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Promptflow_Eval-232F3E?style=for-the-badge"/>
+</p>
+
+### Evaluation Frameworks
+- **RAGAS**: Implementation of comprehensive RAG metrics
+  - Context Relevancy
+  - Answer Relevancy
+  - Faithfulness
+  - Context Precision/Recall
+- **Promptfoo**: Systematic prompt evaluation
+  - A/B testing of prompts
+  - Automated testing workflows
+  - Performance benchmarking
+- **Promptflow Eval**: End-to-end evaluation
+  - Pipeline assessment
+  - Custom metric implementation
+  - Batch evaluation capabilities
 
 ## 📜 Certifications & Training
 - IBM AI Engineering Professional Certificate
@@ -111,5 +136,3 @@
   </a>
 
 </p>
-
-###```
