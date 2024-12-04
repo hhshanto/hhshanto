@@ -123,10 +123,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhshanto&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hhshanto&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhshanto&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ## 📫 Contact Me
