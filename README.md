@@ -125,7 +125,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hhshanto&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhshanto&theme=radical&cache_seconds=86400" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=hhshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ## 📫 Contact Me
