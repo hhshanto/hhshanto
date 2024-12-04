@@ -38,13 +38,11 @@
 `Promptflow` `RAGAS` `FAISS` `Weaviate` `Chroma` `Pinecone`
 
 ### ☁️ Cloud & DevOps
-`Azure` `Docker` `Git` `VS Code` `GitHub Actions`
+`Azure`  `Git` `VS Code` 
 
 ### 🔧 MLOps & Tools
-`MLflow` `DVC` `Jupyter` `Weights & Biases` `Streamlit`
+`MLflow`  `Jupyter` `Weights & Biases` `Streamlit` `chainlit`
 
-### 📊 Data Engineering
-`PostgreSQL` `MongoDB` `Azure Data Factory` `dbt` `Apache Airflow`
 
 </div>
 
@@ -63,7 +61,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhshanto&show_icons=true&theme=onedark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=hhshanto&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
