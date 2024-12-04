@@ -122,8 +122,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhshanto&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhshanto&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hhshanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hhshanto&theme=radical"/>
 </p>
 
 ## 📫 Contact Me
