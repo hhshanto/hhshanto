@@ -9,8 +9,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mhasan-shanto"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:hasanibnesaleh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ## 💼 Experience
@@ -75,13 +75,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Chainlit](https://img.shields.io/badge/Chainlit-FF4081?style=flat)
 
-## 🚀 Projects
-
-- [**Project Name**](https://github.com/yourusername/project-name)  
-  💡 *Brief description of the project and its significance.*
-
-- [**Another Project**](https://github.com/yourusername/another-project)  
-  🌟 *Highlighting features and technologies used.*
 
 ## 📈 GitHub Stats
 
@@ -90,11 +83,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
-## ✨ Fun Facts
-
-- 🎮 **Gamer at Heart:** Love indulging in strategy and puzzle games.
-- 🌍 **Globetrotter:** Passionate about traveling and exploring new cultures.
-- 🎨 **Creative Mind:** Enjoy sketching and digital art in free time.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
