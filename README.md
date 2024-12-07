@@ -31,8 +31,13 @@
   - 🔗 Research-Industry Integration
 
 ## 🛠️ Technical Stack
+<<<<<<< HEAD
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
+=======
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
+<div align="left">
+>>>>>>> 2aa1350c560b8c5b17bfd6682585010b7373ed99
 
 ### 💻 Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
