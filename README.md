@@ -1,9 +1,12 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="855" height="300" alt="Header">
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=MOHAMMAD%20HASAN&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=gradient&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%7C+AI+Enthusiast&font=Fira%20Code&center=true&width=800&height=45&color=gradient&vCenter=true&pause=1000&size=22&margin=10" alt="Typing SVG">
 </p>
 
 ## 🌐 Connect with Me
