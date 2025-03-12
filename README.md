@@ -16,6 +16,22 @@
   <a href="mailto:hasanibnesaleh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+## My Digital Knowledge Garden
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="200" />
+
+<p>
+  <a href="https://hhshanto.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Noema-7B1FA2?style=flat&logo=jekyll&logoColor=white"/>
+  </a>
+</p>
+
+**Noema** is my digital garden where I cultivate interconnected ideas across:
+- 🧠 Data Science & AI
+- 💻 Technology
+- 📚 Philosophy
+- 🎨 Arts & Creativity
+
 ## 💼 Experience
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
@@ -31,7 +47,6 @@
   - 🏥 UK Hospital Database Management
   - 📊 Healthcare Data Analytics
   - 🔮 ML-based Predictive Modeling
-  - 🔗 Research-Industry Integration
 
 ## 🛠️ Technical Stack
 
