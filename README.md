@@ -19,10 +19,10 @@
 ## Experience
 
 > **Research Data Scientist** · KPMG Deutschland
-> <sub>JANUARY 2024 — PRESENT</sub>
+> <sub>JANUARY 2024: PRESENT</sub>
 >
 > Enterprise retrieval-augmented generation on Azure OpenAI and Microsoft Promptflow.
-> I own the evaluation stack — RAGAS, promptfoo, Promptflow eval — and RAFT-style
+> I own the evaluation stack - RAGAS, promptfoo, Promptflow eval - and RAFT-style
 > domain adaptation for audit automation.
 
 > **Research Assistant** · University of Potsdam
